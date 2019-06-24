@@ -12,7 +12,7 @@ Plugin for getting a persistent UDID on iOS and Android
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Your Company' => 'email@example.com' }
   s.source           = { :path => '.' }
-  spec.swift_version = '4.0'
+  s.swift_version = '4.0'
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
